@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DA83-1F14
+
+ Directory of C:\Users\saddam\Desktop\myprojest
+
+11/13/2018  05:15 PM    <DIR>          .
+11/13/2018  05:15 PM    <DIR>          ..
+11/13/2018  05:15 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,524,771,328 bytes free
